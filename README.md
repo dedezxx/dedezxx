@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Programador Apreendiz **Front-end**.
-- 💻 &nbsp; Equipe:__ [OneSource]((https://discord.gg/uUnZCaMhhk)) (FiveM Resources) 
+- 💻 &nbsp; Equipe:__ [OneSource](https://discord.gg/uUnZCaMhhk) (FiveM Resources) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
