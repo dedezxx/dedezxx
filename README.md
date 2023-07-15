@@ -1,7 +1,7 @@
 <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Programador **Front-end** Júnior.
+- 🎓 &nbsp; Programador Apreendiz **Front-end**.
 - 💻 &nbsp; Equipe:__ [OneSource]([https://discord.gg/YSenepBjcS](https://discord.gg/uUnZCaMhhk)) (FiveM Resources) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
