@@ -2,7 +2,6 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Programador Apreendiz **Front-end**.
-- 💻 &nbsp; Equipe:__ [OneSource](https://discord.gg/uUnZCaMhhk) (FiveM Resources) 
 
 <h3> 🚀 &nbsp; Habilidades </h3>
 
@@ -14,7 +13,6 @@
   ![.less](https://img.shields.io/badge/Less-333?style=for-the-badge&logo=less&logoColor=0182dd)
   <br>
   <br>
-  ![.lua](https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=Lua&logoColor=0182dd)
 
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
