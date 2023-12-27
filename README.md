@@ -4,7 +4,7 @@
 - 🎓 &nbsp; Programador **Front-end** Júnior.
 - 💻 &nbsp; **Founder & Owner:** [Synapse](https://discord.gg/vFeph5XcQS) (FiveM Resources)
 
-<h3> 🚀 &nbsp; Habilidades </h3>
+<h3> 🚀 &nbsp; Studying Skills </h3>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
   </a>
