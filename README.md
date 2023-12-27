@@ -1,20 +1,39 @@
-<h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
+ <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Programador Apreendiz **Front-end**.
+- 🎓 &nbsp; Programador **Front-end** Júnior.
+- 💻 &nbsp; **Founder & Owner:** [Synapse](https://discord.gg/vFeph5XcQS) (FiveM Resources)
 
 <h3> 🚀 &nbsp; Habilidades </h3>
-
-  ![.js](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-  ![.html](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://svelte.dev/">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
+  </a>
+  <a href="https://www.lua.org/">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+  </a>
   <br>
-  ![.css](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3&logoColor=0182dd)
-  ![.less](https://img.shields.io/badge/Less-333?style=for-the-badge&logo=less&logoColor=0182dd)
+  <a href="https://sass-lang.com">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://lesscss.org/">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/>
+  </a>
   <br>
-  <br>
-
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
 
-  ![.vscode](https://img.shields.io/badge/Visual%20Studio%20Code-333?style=for-the-badge&logo=visual-studio-code&logoColor=23a9f2)
-  ![figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma)
+<a href="https://visualstudio.microsoft.com/pt-br/">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</a>
