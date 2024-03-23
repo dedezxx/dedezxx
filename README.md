@@ -24,9 +24,6 @@
   <a href="https://sass-lang.com">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  <a href="https://lesscss.org/">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/>
-  </a>
   <br>
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
