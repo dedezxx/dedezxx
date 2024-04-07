@@ -28,8 +28,8 @@
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
 
-<a href="https://visualstudiocode.microsoft.com/pt-br/">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+<a href="https://code.visualstudio.com/">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode-original" width="40" height="40"/>
 </a>
 <a href="https://www.figma.com/">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
