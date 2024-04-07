@@ -28,7 +28,7 @@
 
 <h3> 🌐 &nbsp; Ferramentas de Desenvolvimento </h3>
 
-<a href="https://visualstudio.microsoft.com/pt-br/">
+<a href="https://visualstudiocode.microsoft.com/pt-br/">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
 </a>
 <a href="https://www.figma.com/">
