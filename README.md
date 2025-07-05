@@ -1,6 +1,4 @@
-# 👋 Hellow world!
-
-![Dedezxx GitHub stats](https://github-readme-stats.vercel.app/api?username=dedezxx&show_icons=true&theme=dark)
+# 👋 Olá, eu sou Dede
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,solidjs,svelte,lua,bun,tailwind,discordjs,sass)](https://skillicons.dev)
