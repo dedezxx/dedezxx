@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Dede
 
-![Dedezxx GitHub stats](https://github-readme-stats.vercel.app/api?username=dedezxx&show_icons=true&theme=dark)
-
+![Dedezxx GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedezxx&theme=dark)
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,solidjs,svelte,lua,bun,tailwind,bots,sass)](https://skillicons.dev)
