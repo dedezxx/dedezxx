@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Dede
 
-![Dedezxx GitHub stats]([https://github-readme-stats.vercel.app/api?username=dedezxx&show_icons=true&theme=dark])
+![Dedezxx GitHub stats](https://github-readme-stats.vercel.app/api?username=dedezxx&show_icons=true&theme=dark)
 
 
 ## 👨‍💻 Linguagens: 
