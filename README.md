@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Dede
 
-![Dedezxx GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedezxx&theme=dark)
+![Dedezxx GitHub stats]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedezxx&theme=dark](https://github-readme-activity-graph.vercel.app/graph?username=dedezxx&bg_color=ffffff000&color=708090&line=4fa74b&point=2a522e&area=true&area_color=2a522e&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,solidjs,svelte,lua,bun,tailwind,bots,sass)](https://skillicons.dev)
